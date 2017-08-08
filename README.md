@@ -1,0 +1,1 @@
+I needed a mapping of country codes to various region codes and ended up aggregating information from several sources into one file which I provide here for convenience. Mostly this is standardized by iso and others.
